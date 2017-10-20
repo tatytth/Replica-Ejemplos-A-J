@@ -1,0 +1,13 @@
+#box_1, #box_2 p {
+	width: 900px;
+	margin: 0 auto;
+}
+
+#box_2 { 
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0; 
+	background: #f95b34; 
+	padding: 10px 0; 
+}
